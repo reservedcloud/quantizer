@@ -1,4 +1,6 @@
 # quantizer (mbr)
+Contact me through Discord with my website: https://noobes.rf.gd/
+
 This is a full reversal of quantizer' structs, fonts and binaries and fully working (except of it may bugging).
 
 `WaitOnInterrupt` function is a total meme function I wrote because I was lazy to implement wipet's poorely written interrupt handler to make a "wait on pit" function.
